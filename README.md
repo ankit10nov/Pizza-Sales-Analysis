@@ -38,7 +38,8 @@ Reevaluate Bottom Performers:
 
 Customer Insights:
 •	Conduct surveys or use feedback to understand why certain pizzas perform poorly and adapt recipes or pricing.
-•	Invest in data analysis tools to track evolving customer preferences.
+•	Invest in data analysis tools to track evolving customer preferences.![Dashboard](https://github.com/user-attachments/assets/1f6eaadd-4f13-4665-abfc-e630814e751f)
+
 
 
 
